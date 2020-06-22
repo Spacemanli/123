@@ -1,0 +1,49 @@
+body{
+    height: 100%;
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+.fh5co-heading h2{
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#fh5co-header .display-tc h1, .fh5co-cover .display-tc h1 {
+    font-family: 'Zhi Mang Xing', cursive !important;
+    margin-bottom: 8px !important;
+}
+
+#fh5co-header .display-tc h3, .fh5co-cover .display-tc h3 {
+    font-size: 16px !important;
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+}
+
+#fh5co-header .display-tc .profile-thumb, .fh5co-cover .display-tc .profile-thumb {
+    margin-bottom: 4px !important;
+}
+
+#fh5co-header .display-tc h1 span:before, .fh5co-cover .display-tc h1 span:before {
+    /* position: absolute; */
+    width: 0px !important;
+}
+
+
+#fh5co-header .display-tc h1 span:before, .fh5co-cover .display-tc h1 span:after {
+    /* position: absolute; */
+    width: 0px !important;
+}
+
+.info li .first-block,.second-block {
+    font-size: 16px !important;
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+}
+.timeline .timeline-heading > div h3{
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+}
+.info li{}
+
+h1, h2, h3, h4, h5, h6, figure p {
+    font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+}
